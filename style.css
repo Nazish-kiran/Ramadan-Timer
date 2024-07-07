@@ -6,5 +6,6 @@ body{
     font-family: "Dancing Script", cursive;
     text-align: center;
     overflow: hidden;
-    
+    width: 100%;
+    height: auto;
 }
